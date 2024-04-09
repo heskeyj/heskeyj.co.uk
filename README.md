@@ -1,5 +1,5 @@
-All files for heskeyj.co.uk
+View my site at **www.heskeyj.co.uk**
 
-Currently working on learning and designing my own personal website!
+This site uses the html & css that I have learned to create a clean modern website.
 
 heskeyj.
